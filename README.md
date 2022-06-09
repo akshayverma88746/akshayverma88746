@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Akshay verma</h1>
 <h3 align="center">A person trying to know the of computer science</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24297652">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300px" height="300px" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayverma88746&label=Profile%20views&color=0e75b6&style=flat" alt="akshayverma88746" /> </p>
 
 <p align="left"> <a href="https://twitter.com/akshayv55350575" target="blank"><img src="https://img.shields.io/twitter/follow/akshayv55350575?logo=twitter&style=for-the-badge" alt="akshayv55350575" /></a> </p>
