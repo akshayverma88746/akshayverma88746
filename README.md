@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **akshayverma88746@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1avdL36Pi2lFc03rC0DmM1acpyNnYXYku/view?usp=sharing](https://drive.google.com/file/d/1avdL36Pi2lFc03rC0DmM1acpyNnYXYku/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1L1A1JxJpXxkJGLC2XDX9J6g2dlQ6SGav/view?usp=share_link](https://drive.google.com/file/d/1L1A1JxJpXxkJGLC2XDX9J6g2dlQ6SGav/view?usp=share_link)
 
 - ⚡ Fun fact **I am up for gaming all night**
 
